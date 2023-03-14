@@ -18,3 +18,5 @@
 Приклад запуску проограми: 
 
 <img width="590" alt="Знімок екрана 2023-03-13 о 21 12 54" src="https://user-images.githubusercontent.com/116552632/224963261-9493c148-c8e9-4a49-83c3-5652d945284b.png">
+
+<img width="582" alt="Знімок екрана 2023-03-13 о 21 13 05" src="https://user-images.githubusercontent.com/116552632/224963638-41c7ccb7-bbe0-463b-811a-699e7ee0e947.png">
