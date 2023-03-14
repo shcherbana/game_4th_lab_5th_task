@@ -20,3 +20,7 @@
 <img width="590" alt="Знімок екрана 2023-03-13 о 21 12 54" src="https://user-images.githubusercontent.com/116552632/224963261-9493c148-c8e9-4a49-83c3-5652d945284b.png">
 
 <img width="582" alt="Знімок екрана 2023-03-13 о 21 13 05" src="https://user-images.githubusercontent.com/116552632/224963638-41c7ccb7-bbe0-463b-811a-699e7ee0e947.png">
+
+<img width="510" alt="Знімок екрана 2023-03-13 о 21 13 18" src="https://user-images.githubusercontent.com/116552632/224963933-d1a9b5c1-8c00-4227-8d37-bd8d9ec1aab4.png">
+
+У файлі log.txt - надано один з можливих сценаріїїв гри.
